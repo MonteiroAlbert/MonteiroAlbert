@@ -8,9 +8,10 @@
 <b>Current work</b>: musician [Radiola Brasileira](https://instagram.com/radiola.brasileira) / independent photographer [@albertmonteiro.raw](https://instagram.com/albertmonteiro.raw)
 
 <h3> <u>Scholar info:</u> <h3/>
+
 <ul>
     <li><b>University:</b> Federal University of Alagoas (A. C. Simões Campus – Maceió, AL)
-</ul]
+</ul>
 <h3>Current Hard skills:</h3>
 <ul>
     <li><b> Programming languages </b> – Python
