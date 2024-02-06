@@ -8,15 +8,16 @@
 <b>Current work</b>: musician [Radiola Brasileira](https://instagram.com/radiola.brasileira) / independent photographer [@albertmonteiro.raw](https://instagram.com/albertmonteiro.raw)
 
 <h3> <u>Scholar info:</u> <h3/>
-* <b>University:</b> Federal University of Alagoas (A. C. Simões Campus – Maceió, AL)
-
+<ul>
+    <li><b>University:</b> Federal University of Alagoas (A. C. Simões Campus – Maceió, AL)
+</ul]
 <h3>Current Hard skills:</h3>
 <ul>
-    <b> Programming languages </b> – Python
-    <b> Data Analytics </b> – Python/Pandas
-    <b> UI/Graphic Design </b> – CorelDRAW Graphics Suite, Adobe Illustrator, Adobe Xd
-    <b> Image editing </b> – Adobe Photoshop, Adobe Lightroom
-    <b> Video editing </b> – Adobe After Effects, Adobe Premiere
+    <li><b> Programming languages </b> – Python
+    <li><b> Data Analytics </b> – Python/Pandas
+    <li><b> UI/Graphic Design </b> – CorelDRAW Graphics Suite, Adobe Illustrator, Adobe Xd
+    <li><b> Image editing </b> – Adobe Photoshop, Adobe Lightroom
+    <li><b> Video editing </b> – Adobe After Effects, Adobe Premiere
 </ul>
 ____
 
