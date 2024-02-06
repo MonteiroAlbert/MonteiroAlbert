@@ -1,23 +1,23 @@
-# <u>_Yo, traveller!_ Albert here</u> ^^/
+<h1> <u>_Yo, traveller!_ Albert here</u> ^^/ <h1>
 
-### <u>About me</u>:
+<h3> <u>About me</u>: </h3>
 
->_"Just a brazilian youngster looking forward become a real dev."_\
-**Age**: 25 yo (June, 5th)\
-**Local**: Maceió, Alagoas – Brazil\
-**Current work**: musician [Radiola Brasileira](https://instagram.com/radiola.brasileira) / independent photographer [@albertmonteiro.raw](https://instagram.com/albertmonteiro.raw)
+><i>"Just a brazilian youngster looking forward become a real dev."</i>
+<b>Age</b>: 25 yo (June, 5th) <br />
+<b>Local</b>: Maceió, Alagoas – Brazil <br />
+<b>Current work</b>: musician [Radiola Brasileira](https://instagram.com/radiola.brasileira) / independent photographer [@albertmonteiro.raw](https://instagram.com/albertmonteiro.raw)
 
-### <u>Scholar info:</u>
-* **University:** Federal University of Alagoas (A. C. Simões Campus – Maceió, AL)
+<h3> <u>Scholar info:</u> <h3/>
+* <b>University:</b> Federal University of Alagoas (A. C. Simões Campus – Maceió, AL)
 
-### <u>Current Hardskills</u>:
-
-* **Programming languages** – Python
-* **Data Analytics** – Python/Pandas
-* **UI/Graphic Design** – CorelDRAW Graphics Suite, Adobe Illustrator, Adobe Xd
-* **Image editing** – Adobe Photoshop, Adobe Lightroom
-* **Video editing** – Adobe After Effects, Adobe Premiere
-
+<h3>Current Hard skills:</h3>
+<ul>
+    <b> Programming languages </b> – Python
+    <b> Data Analytics </b> – Python/Pandas
+    <b> UI/Graphic Design </b> – CorelDRAW Graphics Suite, Adobe Illustrator, Adobe Xd
+    <b> Image editing </b> – Adobe Photoshop, Adobe Lightroom
+    <b> Video editing </b> – Adobe After Effects, Adobe Premiere
+</ul>
 ____
 
 # <u>Fala, pessoinhas!! Albert aqui</u> ^^/
