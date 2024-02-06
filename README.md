@@ -9,7 +9,7 @@
 
 <h3> <u>Scholar info:</u> <h3/>
 
-- <b>University:</b> Federal University of Alagoas (A. C. Simões Campus – Maceió, AL)
+* <b>University:</b> Federal University of Alagoas (A. C. Simões Campus – Maceió, AL)
 
 <h3>Current hardskills:</h3>
 <ul>
