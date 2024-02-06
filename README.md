@@ -5,14 +5,13 @@
 ><i>"Just a brazilian youngster looking forward become a real dev."</i>
 <b>Age</b>: 25 yo (June, 5th) <br />
 <b>Local</b>: Maceió, Alagoas – Brazil <br />
-<b>Current work</b>: musician [Radiola Brasileira](https://instagram.com/radiola.brasileira) / independent photographer [@albertmonteiro.raw](https://instagram.com/albertmonteiro.raw)
+<b>Current work</b>: musician [Radiola Brasileira](https://instagram.com/radiola.brasileira) / independent photographer [@albertmonteiro.raw](https://instagram.com/albertmonteiro.raw) <br />
 
 <h3> <u>Scholar info:</u> <h3/>
 
-<ul>
-    <li><b>University:</b> Federal University of Alagoas (A. C. Simões Campus – Maceió, AL)
-</ul>
-<h3>Current Hard skills:</h3>
+- <b>University:</b> Federal University of Alagoas (A. C. Simões Campus – Maceió, AL)
+
+<h3>Current hardskills:</h3>
 <ul>
     <li><b> Programming languages </b> – Python
     <li><b> Data Analytics </b> – Python/Pandas
